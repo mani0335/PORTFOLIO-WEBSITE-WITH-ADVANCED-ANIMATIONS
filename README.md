@@ -17,3 +17,5 @@ To make the website truly stand out, attention is also given to responsive desig
 
 By the end of the internship, participants have a tangible product that serves as both a personal branding tool and a testament to their web development skills. The process of building the portfolio improves problem-solving abilities, enhances familiarity with industry tools, and encourages best practices in coding and design. Such an internship not only equips individuals with technical know-how but also positions them competitively in the job market, as the portfolio demonstrates creativity, professionalism, and technical proficiency in a highly competitive field.
 
+output
+![Screenshot_20241228-205408_Chrome](https://github.com/user-attachments/assets/3258a857-7ced-4101-a9de-e9d89dd6b4aa)
